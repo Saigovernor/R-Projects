@@ -15,3 +15,5 @@ Coffee House is a multinational chain of coffeehouses and roastery reserves. The
 3. Model data using statistics to identify factors contributing to retention rates.
 
 4. Developing solutions to the given problem statement in the light of your data insights using visualizations.
+
+The entire project can be accessed [here](https://rpubs.com/Sirgovie/1036929)
