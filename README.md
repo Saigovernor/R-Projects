@@ -1,4 +1,4 @@
-# R-Projects
+# Customer Retention Analysis
 
 ## **Staying Caffeinated: Customer Retention Strategies for a Coffee Store** 
 
